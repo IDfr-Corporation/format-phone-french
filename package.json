@@ -1,6 +1,6 @@
 {
   "name": "format-phone-french",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A node module that formats phone number according to options.",
   "main": "index.js",
   "scripts": {
