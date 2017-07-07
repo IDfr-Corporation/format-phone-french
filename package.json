@@ -1,6 +1,6 @@
 {
   "name": "format-phone-french",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node module that formats phone number according to options.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/idfr/format-phone-french.git"
   },
   "engines": {
-    "node": "4.x",
-    "npm": "3.x"
+    "node": ">=4",
+    "npm": ">=3"
   },
   "keywords": [
     "phone",
